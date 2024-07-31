@@ -1,4 +1,5 @@
 # Meal Tracker API
+A Rocket Seat Challenge
 
 ## Overview
 
