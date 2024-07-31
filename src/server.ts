@@ -3,8 +3,8 @@ import { env } from './configs/env.config'
 
 app
   .listen({
-    port: env.PORT,
     host: '0.0.0.0',
+    port: env.PORT,
   })
   .then(() => {
     console.log(`Server listening at ${env.PORT}`)
